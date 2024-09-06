@@ -13,7 +13,7 @@ For this, I did feature engineering.
 # new_users_recommendation
 1.) For New Users WitHout Any History.
 2.) PPT- "Recommendation Engine Overview" which tells the flow of working on the engine.
-3.) Run- updated_recommendation_engine.
+3.) Run- updated_recommendation_engine.py.
 4.) Note: Same for this also extracting only useful fields, doing feature engineering.
 5.) New user recommendations are based on popular and the newest items are also added to avoid neglecting their importance.
 
